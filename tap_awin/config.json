@@ -1,0 +1,30 @@
+{
+"accessToken":"",
+"transactions":
+	{
+	 "dateType":"",
+	 "timezone":"",
+	 "status":""
+	},
+"aggregatedReport":
+	{
+	 "dateType":"",
+	 "timezone":"",
+	 "region":""
+	},
+"aggregatedByCreative":
+	{
+	 "dateType":"",
+	 "timezone":"",
+	 "region":""
+	},
+"programmes":
+	{
+	 "":"",
+	 "":""
+	},
+"user_agent": "",
+"start_date": "",
+"increment":
+}
+
