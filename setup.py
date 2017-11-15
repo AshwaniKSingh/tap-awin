@@ -11,7 +11,8 @@ setup(name='tap_awin',
       py_modules=['tap_awin'],
       install_requires=[
           'singer-python==3.5.1',
-          'pyrfc3339==1.0'
+          'pyrfc3339==1.0',
+          'requests==2.14.0'
       ],
       entry_points='''
           [console_scripts]
